@@ -63,6 +63,17 @@ Below are the core SQL queries used in this project:
 
 <img width="1122" height="429" alt="image" src="https://github.com/user-attachments/assets/ea13f6c5-21fa-4041-aa6f-0f650f7e5153" />
 
+---
+### Example Query:
+
+```sql
+SELECT 
+    category,
+    SUM(price) AS revenue,
+    SUM(price - (cost + shipping_cost + commission + ad_cost)) AS profit
+FROM public.ecommerce_profit_dataset
+GROUP BY category
+ORDER BY profit DESC;
 
 ---
 
