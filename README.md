@@ -43,7 +43,7 @@ The goal of this project is to understand:
 
 ## 📸 Dashboard
 
-![Dashboard](dashboard/ecommerce_dashboard.png)
+[![Dashboard](dashboard/ecommerce_dashboard.png)](https://public.tableau.com/app/profile/melike.emine.zyavuz/viz/Book1_17779909584150/DrivingProfitE-commercePerformanceDashboard?publish=yes)
 
 ---
 
