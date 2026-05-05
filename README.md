@@ -37,7 +37,7 @@ The goal of this project is to understand:
 
 ## 📂 Dataset
 
-- E-commerce transactions dataset (synthetic)
+- "C:\Users\Melek\Desktop\e commerce\ecommerce_profit_dataset.csv"
 
 ---
 
