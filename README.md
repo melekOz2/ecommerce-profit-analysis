@@ -50,6 +50,8 @@ The goal of this project is to understand:
 ## 📂 Dataset
 
 - E-commerce transactions dataset (synthetic)
+- <img width="641" height="514" alt="image" src="https://github.com/user-attachments/assets/38f2ea01-6b3e-45cd-b2ef-75462994f576" />
+
 
 ## 🧠 SQL Analysis
 
