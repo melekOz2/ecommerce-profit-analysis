@@ -62,6 +62,8 @@ Below are the core SQL queries used in this project:
 ## 📸 Dashboard
 
 [![Dashboard](dashboard/ecommerce_dashboard.png)](https://public.tableau.com/app/profile/melike.emine.zyavuz/viz/Book1_17779909584150/DrivingProfitE-commercePerformanceDashboard?publish=yes)
+<img width="1251" height="857" alt="image" src="https://github.com/user-attachments/assets/22764f8b-da06-4b33-b549-ceadbdef334e" />
+
 
 ---
 
