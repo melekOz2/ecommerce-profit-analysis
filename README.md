@@ -64,7 +64,7 @@ Below are the core SQL queries used in this project:
 <img width="1122" height="429" alt="image" src="https://github.com/user-attachments/assets/ea13f6c5-21fa-4041-aa6f-0f650f7e5153" />
 
 ---
-### Example Query:
+## Example Query:
 
 ```sql
 SELECT 
