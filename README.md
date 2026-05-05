@@ -51,7 +51,7 @@ The goal of this project is to understand:
 
 - E-commerce transactions dataset (synthetic)
 
-## 📂 SQL Query Resume
+## 📂 SQL Query 
 <img width="701" height="528" alt="image" src="https://github.com/user-attachments/assets/c1070bdb-15eb-49ea-b9c2-8f08eb55625f" />
 
 ---
