@@ -52,10 +52,8 @@ The goal of this project is to understand:
 - E-commerce transactions dataset (synthetic)
   <img width="641" height="514" alt="image" src="https://github.com/user-attachments/assets/38f2ea01-6b3e-45cd-b2ef-75462994f576" />
   
+## Sql Query
 
-
-## 🧠 SQL Analysis
----
 SELECT 
     category,
     SUM(price) AS revenue,
@@ -63,7 +61,10 @@ SELECT
 FROM public.ecommerce_profit_dataset
 GROUP BY category
 ORDER BY profit DESC;
----
+
+
+## 🧠 SQL Analysis
+
 
 Below are the core SQL queries used in this project:
 
