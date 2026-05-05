@@ -55,6 +55,15 @@ The goal of this project is to understand:
 
 
 ## 🧠 SQL Analysis
+---
+SELECT 
+    category,
+    SUM(price) AS revenue,
+    SUM(price - (cost + shipping_cost + commission + ad_cost)) AS profit
+FROM public.ecommerce_profit_dataset
+GROUP BY category
+ORDER BY profit DESC;
+---
 
 Below are the core SQL queries used in this project:
 
