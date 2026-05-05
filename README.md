@@ -50,7 +50,7 @@ The goal of this project is to understand:
 ## 📂 Dataset
 
 - E-commerce transactions dataset (synthetic)
-- <img width="641" height="514" alt="image" src="https://github.com/user-attachments/assets/38f2ea01-6b3e-45cd-b2ef-75462994f576" />
+  <img width="641" height="514" alt="image" src="https://github.com/user-attachments/assets/38f2ea01-6b3e-45cd-b2ef-75462994f576" />
 
 
 ## 🧠 SQL Analysis
@@ -58,6 +58,8 @@ The goal of this project is to understand:
 Below are the core SQL queries used in this project:
 
 <img width="701" height="528" alt="image" src="https://github.com/user-attachments/assets/c1070bdb-15eb-49ea-b9c2-8f08eb55625f" />
+<img width="1122" height="429" alt="image" src="https://github.com/user-attachments/assets/ea13f6c5-21fa-4041-aa6f-0f650f7e5153" />
+
 
 ---
 
