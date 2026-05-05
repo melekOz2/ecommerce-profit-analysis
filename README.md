@@ -1,6 +1,18 @@
+## 📌 Business Problem
+
+E-commerce businesses often focus on revenue, but fail to monitor profitability.
+
+This project identifies:
+- Loss-making products
+- Cost drivers
+- Profitable categories
+
+---
+
 # 📊 E-commerce Profit Analysis
 
 This project analyzes e-commerce revenue, cost, and profit performance using SQL and Tableau.
+
 
 ---
 
